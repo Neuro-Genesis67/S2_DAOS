@@ -1,1 +1,2 @@
-# S2_DAOS
+# DAOS_Semester_2
+Daos, 2 semester.
